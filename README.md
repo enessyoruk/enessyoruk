@@ -19,7 +19,7 @@ Okul bilgi sistemleri, operasyon yazılımları ve ürün arayüzleri geliştiri
 
 ### [Alfa-β Akademi — Arayüz](https://github.com/enessyoruk/alfabe-vbs-frontend)
 
-Özel öğretim kurumu için tanıtım sitesi ile veli, öğretmen ve yönetici panelleri. Canlı: [alfabe-vbs-frontend.vercel.app](https://alfabe-vbs-frontend.vercel.app)
+Özel öğretim kurumu için tanıtım sitesi ile veli, öğretmen ve yönetici panelleri. Canlı: [alfabe-vbs-frontend.vercel.app](https://alfabeakademi.com)
 
 ### [Alfa-β Akademi — API](https://github.com/enessyoruk/alfabe-vbs-backend)
 
